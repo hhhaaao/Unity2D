@@ -1,0 +1,4 @@
+repository "start@skurve-orignal@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
